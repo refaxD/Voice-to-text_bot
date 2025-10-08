@@ -8,7 +8,7 @@
 ---
 
 # Установка
-###Клонирование репо
+### Клонирование репо
 ```bash
 git clone https://github.com/refaxD/Voice-to-text_bot.git cd Voice-to-text_bot
 ```
@@ -23,3 +23,4 @@ python -m venv .venv source
 pip install -r requirments.txt
 ```
 ### Вписать API-Token тг-бота в поле API_TOKEN = "СЮДЫ_ТОКЕН"
+### Установить ffmpeg
